@@ -177,3 +177,24 @@ hl.window_rule({
   },
     workspace = 2
 })
+hl.window_rule({
+    name = "mail-on-ws3",
+      match = {
+    class = "thunderbird",
+  },
+    workspace = 3
+})
+hl.window_rule({
+    name = "discord-on-ws4",
+      match = {
+    class = "discord",
+  },
+    workspace = 4
+})
+hl.window_rule({
+    name = "spotify-on-ws4",
+      match = {
+    class = "spotify",
+  },
+    workspace = 4
+})
