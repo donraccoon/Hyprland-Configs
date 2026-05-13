@@ -4,8 +4,8 @@
 
 hl.config({
     general = {
-        gaps_in  = 5,
-        gaps_out = 20,
+        gaps_in  = 3,
+        gaps_out = 8,
 
         border_size = 2,
 
@@ -120,33 +120,6 @@ hl.config({
     },
 })
 
-hl.config({
-    input = {
-        kb_layout  = "us",
-        kb_variant = "",
-        kb_model   = "",
-        kb_options = "",
-        kb_rules   = "",
-
-        follow_mouse = 1,
-
-        sensitivity = 0, -- -1.0 - 1.0, 0 means no modification.
-
-        touchpad = {
-            natural_scroll = true,
-        },
-    },
-})
-
-
-
--- Example per-device config
--- See https://wiki.hypr.land/Configuring/Advanced-and-Cool/Devices/ for more
-hl.device({
-    name        = "epic-mouse-v1",
-    sensitivity = -0.5,
-})
-
 
 local suppressMaximizeRule = hl.window_rule({
     -- Ignore maximize requests from all apps. You'll probably like this.
@@ -187,4 +160,20 @@ hl.window_rule({
 
     move  = "20 monitor_h-120",
     float = true,
+})
+
+hl.window_rule({
+    name = "terminal-on-ws1",
+      match = {
+    class = "kitty"
+  },
+    workspace = 1
+})
+
+hl.window_rule({
+    name = "browser-on-ws2",
+      match = {
+    class = "librewolf",
+  },
+    workspace = 2
 })

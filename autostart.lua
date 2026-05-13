@@ -16,8 +16,10 @@
    hl.exec_cmd("wl-paste --type text --watch cliphist store && wl-paste --type image --watch cliphist store")
    hl.exec_cmd("hypridle")
    hl.exec_cmd("waybar")
-   hl.exec_cmd(browser)
    hl.exec_cmd("hyprpaper")
    hl.exec_cmd("hyprctl hyprpaper wallpaper 'eDP-1, /home/lars/Pictures/wallpapers/kitty_dark.png, cover'")
+   hl.exec_cmd("kdeconnectd")
+   hl.exec_cmd("xhost + local")
+   hl.exec_cmd(browser)
  end)
 

@@ -3,7 +3,7 @@ hl.bind("SUPER + Q", hl.dsp.window.close())
 --hl.bind("SUPER + SHIFT + P", hl.dsp.exec_cmd("/bin/true")) -- TODO: change this
 hl.bind("SUPER + B", hl.dsp.exec_cmd("librewolf"))
 hl.bind("SUPER + E", hl.dsp.exec_cmd("thunar"))
-hl.bind("SUPER + V", hl.dsp.window.float({ action = "toggle" }))
+hl.bind("SUPER + Space", hl.dsp.window.float({ action = "toggle" }))
 hl.bind("SUPER + space", hl.dsp.exec_cmd("wofi --show drun"))
 hl.bind("SUPER + P", hl.dsp.window.pseudo())
 hl.bind("SUPER + F", hl.dsp.layout("togglesplit"))
