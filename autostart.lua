@@ -23,8 +23,8 @@
    hl.exec_cmd("kdeconnectd")
    hl.exec_cmd("xhost + local")
    hl.exec_cmd(browser)
-   hl.exec_cmd(mail)
-   hl.exec_cmd(music)
+   hl.exec_cmd("thunderbird")
+   hl.exec_cmd("spotify")
    hl.exec_cmd("discord")
  end)
 
