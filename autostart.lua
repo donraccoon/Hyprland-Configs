@@ -9,10 +9,12 @@
 --
  hl.on("hyprland.start", function ()
   hl.exec_cmd("systemctl --user import-environment WAYLAND_DISPLAY XDG_CURRENT_DESKTOP DISPLAY && dbus-update-activation-environment --systemd WAYLAND_DISPLAY XDG_CURRENT_DESKTOP DISPLAY")
+  hl.exec_cmd("gnome-keyring-daemon --start --components=secrets")
    hl.exec_cmd(terminal)
    hl.exec_cmd(terminal)
    hl.exec_cmd("nm-applet --indicator")
    hl.exec_cmd("nm-tray")
+   hl.exec_cmd("blueman-applet")
    hl.exec_cmd("swaync")
    hl.exec_cmd("wl-paste --type text --watch cliphist store && wl-paste --type image --watch cliphist store")
    hl.exec_cmd("hypridle")
@@ -24,6 +26,6 @@
    hl.exec_cmd("kdeconnectd")
    hl.exec_cmd("xhost + local")
    hl.exec_cmd(browser)
-   
+   hl.exec_cmd("sunshine &")
  end)
 
