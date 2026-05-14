@@ -10,6 +10,7 @@
  hl.on("hyprland.start", function ()
   hl.exec_cmd("systemctl --user import-environment WAYLAND_DISPLAY XDG_CURRENT_DESKTOP DISPLAY && dbus-update-activation-environment --systemd WAYLAND_DISPLAY XDG_CURRENT_DESKTOP DISPLAY")
    hl.exec_cmd(terminal)
+   hl.exec_cmd(terminal)
    hl.exec_cmd("nm-applet --indicator")
    hl.exec_cmd("nm-tray")
    hl.exec_cmd("swaync")
@@ -19,12 +20,10 @@
    hl.exec_cmd("qs")
    hl.exec_cmd("qs -c overview")
    hl.exec_cmd("hyprpaper")
-   hl.exec_cmd("hyprctl hyprpaper wallpaper 'eDP-1, /home/lars/Pictures/wallpapers/kitty_dark.png, cover'")
+   --hl.exec_cmd("hyprctl hyprpaper wallpaper 'eDP-1, /home/lars/Pictures/wallpapers/kitty_dark.png, cover'")
    hl.exec_cmd("kdeconnectd")
    hl.exec_cmd("xhost + local")
    hl.exec_cmd(browser)
-   hl.exec_cmd("thunderbird")
-   hl.exec_cmd("spotify")
-   hl.exec_cmd("discord")
+   
  end)
 
