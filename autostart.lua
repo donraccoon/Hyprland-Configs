@@ -27,5 +27,6 @@
    hl.exec_cmd("xhost + local")
    hl.exec_cmd(browser)
    hl.exec_cmd("sunshine &")
+   hl.exec_cmd("tailscale down && sleep 2 && tailscale up")
  end)
 
