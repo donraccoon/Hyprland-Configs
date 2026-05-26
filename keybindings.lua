@@ -8,9 +8,14 @@ hl.bind("SUPER + D", hl.dsp.exec_cmd("rofi -show drun"))
 hl.bind("SUPER + P", hl.dsp.window.pseudo())
 hl.bind("SUPER + F", hl.dsp.layout("togglesplit"))
 hl.bind("SUPER + L", hl.dsp.exec_cmd("hyprlock --immediate-render"))
-hl.bind("SUPER + SHIFT + S", hl.dsp.exec_cmd("hyprshot -m region -z"))
+hl.bind("SUPER + S", hl.dsp.exec_cmd("hyprshot -m output -z"))
 hl.bind("SUPER + ALT + S", hl.dsp.exec_cmd("hyprshot -m window -z"))
+
+hl.bind("Print", hl.dsp.exec_cmd("hyprshot -m output -z"))
+hl.bind("SHIFT + Print", hl.dsp.exec_cmd("hyprshot -m region -z"))
 hl.bind("SUPER + H", hl.dsp.exec_cmd("thunderbird"))
+hl.bind("SUPER + ALT + V", hl.dsp.exec_cmd("/home/lars/.config/hypr/ClipManager.sh"))
+--bindd = $mainMod ALT, V, clipboard manager, exec, $scriptsDir/ClipManager.sh
 
 hl.bind("SUPER + M", hl.dsp.exec_cmd("command -v hyprshutdown >/dev/null 2>&1 && hyprshutdown || hyprctl dispatch 'hl.dsp.exit()'"))
 
