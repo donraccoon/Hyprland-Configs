@@ -38,3 +38,5 @@ hl.env("GSK_RENDERER", "ngl")
 
 -- Fix for Blank/Gray Java Applications
 hl.env("_JAVA_AWT_WM_NONREPARENTING", "1")
+
+--hl.env("AQ_DRM_DEVICES", "pci-0000:06:00.0-card:pci-0000:01:00.0-card")

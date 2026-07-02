@@ -8,11 +8,7 @@
 -- You can (and should!!) split this configuration into multiple files
 -- Create your files separately and then require them like this:
 -- require("myColors")
-hl.config({
-    xwayland = {
-        force_zero_scaling = true,
-    },
-})
+
 
 require("ENVar")
 require("input")
