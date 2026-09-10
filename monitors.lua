@@ -88,7 +88,7 @@ hl.monitor({
 hl.monitor({
     output = "EXT-1",
     mode = "2560x1600@120",
-    position = "auto-left",
+    position = "auto-right",
     scale = 1.60,
     transform = 0
 })

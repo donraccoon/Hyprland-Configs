@@ -14,7 +14,7 @@ hl.config({
             inactive_border = "rgba(595959aa)",
         },
 
-        resize_on_border = false,
+        resize_on_border = true,
 
         allow_tearing    = false,
 
@@ -160,6 +160,8 @@ hl.window_rule({
 -- overlayLayerRule:set_enabled(false)
 
 -- Hyprland-run windowrule
+
+
 hl.window_rule({
     name  = "move-hyprland-run",
     match = { class = "hyprland-run" },
@@ -194,4 +196,48 @@ hl.window_rule({
         class = "discord",
     },
     workspace = 4
+})
+
+hl.window_rule({
+    name = "pin pip",
+    match = { title = "Picture-in-Picture" },
+    float = true,
+    pin = true,
+})
+
+
+hl.window_rule({
+    name = "Float by class",
+    match = { 
+        class = "blueman-manager|blueman-services|nwg-look|rog-control-center|org.qbittorrent.qBittorrent|kvantummanager|\
+                 org.gnome.seahorse.Application|xfce-polkit|org.polymc.PolyMC|engrampa|nm-connection-editor|system-config-printer|hyprland-share-picker|\
+                 org.bleachbit.BleachBit|vlc|exo-desktop-item-edit|xdg-desktop-portal-gtk|org.gnome.eog|qt6ct|xfce-polkit"
+    },
+
+    float = true,
+    center = true,
+    persistent_size = true,
+})
+
+
+hl.window_rule({
+    name = "Kitty opacity and border",
+    match = {
+        class = "Kitty|peaclock"
+    },
+
+    opacity = "0.9 0.8",
+    border_size = 2,
+})
+
+
+
+hl.window_rule({
+    -- TODO fullscreens all wine apps
+    name = "Games in fullscreen",
+    match = {
+        class = "steam_app_.*",
+    },
+    
+    fullscreen = true
 })
