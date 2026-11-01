@@ -1,0 +1,6 @@
+[calendar]
+enabled = true
+
+    [calendar.account.personal_google]
+    type = "google"
+

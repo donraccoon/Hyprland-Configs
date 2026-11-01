@@ -1,0 +1,2052 @@
+[
+  {
+    "name": "'s-Hertogenbosch",
+    "code": "Ht",
+    "slug": "s-hertogenbosch"
+  },
+  {
+    "name": "'s-Hertogenbosch Oost",
+    "code": "Hto",
+    "slug": "s-hertogenbosch-oost"
+  },
+  {
+    "name": "'t Harde",
+    "code": "Hde",
+    "slug": "t-harde"
+  },
+  {
+    "name": "Aachen Hbf",
+    "code": "Ahbf",
+    "slug": "aachen-hbf"
+  },
+  {
+    "name": "Aalten",
+    "code": "Atn",
+    "slug": "aalten"
+  },
+  {
+    "name": "Abcoude",
+    "code": "Ac",
+    "slug": "abcoude"
+  },
+  {
+    "name": "Akkrum",
+    "code": "Akm",
+    "slug": "akkrum"
+  },
+  {
+    "name": "Alkmaar",
+    "code": "Amr",
+    "slug": "alkmaar"
+  },
+  {
+    "name": "Alkmaar Noord",
+    "code": "Amrn",
+    "slug": "alkmaar-noord"
+  },
+  {
+    "name": "Almelo",
+    "code": "Aml",
+    "slug": "almelo"
+  },
+  {
+    "name": "Almelo de Riet",
+    "code": "Amri",
+    "slug": "almelo-de-riet"
+  },
+  {
+    "name": "Almere Buiten",
+    "code": "Almb",
+    "slug": "almere-buiten"
+  },
+  {
+    "name": "Almere Centrum",
+    "code": "Alm",
+    "slug": "almere-centrum"
+  },
+  {
+    "name": "Almere Muziekwijk",
+    "code": "Almm",
+    "slug": "almere-muziekwijk"
+  },
+  {
+    "name": "Almere Oostvaarders",
+    "code": "Almo",
+    "slug": "almere-oostvaarders"
+  },
+  {
+    "name": "Almere Parkwijk",
+    "code": "Almp",
+    "slug": "almere-parkwijk"
+  },
+  {
+    "name": "Almere Poort",
+    "code": "Ampo",
+    "slug": "almere-poort"
+  },
+  {
+    "name": "Alphen a/d Rijn",
+    "code": "Apn",
+    "slug": "alphen-a-d-rijn"
+  },
+  {
+    "name": "Amersfoort Centraal",
+    "code": "Amf",
+    "slug": "amersfoort"
+  },
+  {
+    "name": "Amersfoort Schothorst",
+    "code": "Amfs",
+    "slug": "amersfoort-schothorst"
+  },
+  {
+    "name": "Amersfoort Vathorst",
+    "code": "Avat",
+    "slug": "amersfoort-vathorst"
+  },
+  {
+    "name": "Amsterdam Amstel",
+    "code": "Asa",
+    "slug": "amsterdam-amstel"
+  },
+  {
+    "name": "Amsterdam Bijlmer ArenA",
+    "code": "Asb",
+    "slug": "amsterdam-bijlmer-arena"
+  },
+  {
+    "name": "Amsterdam Centraal",
+    "code": "Asd",
+    "slug": "amsterdam-centraal"
+  },
+  {
+    "name": "Amsterdam Holendrecht",
+    "code": "Ashd",
+    "slug": "amsterdam-holendrecht"
+  },
+  {
+    "name": "Amsterdam Lelylaan",
+    "code": "Asdl",
+    "slug": "amsterdam-lelylaan"
+  },
+  {
+    "name": "Amsterdam Muiderpoort",
+    "code": "Asdm",
+    "slug": "amsterdam-muiderpoort"
+  },
+  {
+    "name": "Amsterdam Noord (Metro)",
+    "code": "Asdn",
+    "slug": "amsterdam-noord"
+  },
+  {
+    "name": "Amsterdam RAI",
+    "code": "Rai",
+    "slug": "amsterdam-rai"
+  },
+  {
+    "name": "Amsterdam Science Park",
+    "code": "Assp",
+    "slug": "amsterdam-science-park"
+  },
+  {
+    "name": "Amsterdam Sloterdijk",
+    "code": "Ass",
+    "slug": "amsterdam-sloterdijk"
+  },
+  {
+    "name": "Amsterdam Zuid",
+    "code": "Asdz",
+    "slug": "amsterdam-zuid"
+  },
+  {
+    "name": "Anna Paulowna",
+    "code": "Ana",
+    "slug": "anna-paulowna"
+  },
+  {
+    "name": "Apeldoorn",
+    "code": "Apd",
+    "slug": "apeldoorn"
+  },
+  {
+    "name": "Apeldoorn De Maten",
+    "code": "Apdm",
+    "slug": "apeldoorn-de-maten"
+  },
+  {
+    "name": "Apeldoorn Osseveld",
+    "code": "Apdo",
+    "slug": "apeldoorn-osseveld"
+  },
+  {
+    "name": "Appingedam",
+    "code": "Apg",
+    "slug": "appingedam"
+  },
+  {
+    "name": "Arkel",
+    "code": "Akl",
+    "slug": "arkel"
+  },
+  {
+    "name": "Arnemuiden",
+    "code": "Arn",
+    "slug": "arnemuiden"
+  },
+  {
+    "name": "Arnhem Centraal",
+    "code": "Ah",
+    "slug": "arnhem-centraal"
+  },
+  {
+    "name": "Arnhem Presikhaaf",
+    "code": "Ahpr",
+    "slug": "arnhem-presikhaaf"
+  },
+  {
+    "name": "Arnhem Velperpoort",
+    "code": "Ahp",
+    "slug": "arnhem-velperpoort"
+  },
+  {
+    "name": "Arnhem Zuid",
+    "code": "Ahz",
+    "slug": "arnhem-zuid"
+  },
+  {
+    "name": "Assen",
+    "code": "Asn",
+    "slug": "assen"
+  },
+  {
+    "name": "Baarn",
+    "code": "Brn",
+    "slug": "baarn"
+  },
+  {
+    "name": "Bad Bentheim",
+    "code": "Bh",
+    "slug": "bad-bentheim"
+  },
+  {
+    "name": "Bad Nieuweschans",
+    "code": "Nsch",
+    "slug": "bad-nieuweschans"
+  },
+  {
+    "name": "Baflo",
+    "code": "Bf",
+    "slug": "baflo"
+  },
+  {
+    "name": "Barendrecht",
+    "code": "Brd",
+    "slug": "barendrecht"
+  },
+  {
+    "name": "Barneveld Centrum",
+    "code": "Bnc",
+    "slug": "barneveld-centrum"
+  },
+  {
+    "name": "Barneveld Noord",
+    "code": "Bnn",
+    "slug": "barneveld-noord"
+  },
+  {
+    "name": "Barneveld Zuid",
+    "code": "Bnz",
+    "slug": "barneveld-zuid"
+  },
+  {
+    "name": "Bedum",
+    "code": "Bdm",
+    "slug": "bedum"
+  },
+  {
+    "name": "Beek-Elsloo",
+    "code": "Bk",
+    "slug": "beek-elsloo"
+  },
+  {
+    "name": "Beesd",
+    "code": "Bsd",
+    "slug": "beesd"
+  },
+  {
+    "name": "Beilen",
+    "code": "Bl",
+    "slug": "beilen"
+  },
+  {
+    "name": "Bergen op Zoom",
+    "code": "Bgn",
+    "slug": "bergen-op-zoom"
+  },
+  {
+    "name": "Berlin Gesundbrunnen",
+    "code": "Gsb",
+    "slug": "berlin-gesundbrunnen"
+  },
+  {
+    "name": "Best",
+    "code": "Bet",
+    "slug": "best"
+  },
+  {
+    "name": "Beverwijk",
+    "code": "Bv",
+    "slug": "beverwijk"
+  },
+  {
+    "name": "Bilthoven",
+    "code": "Bhv",
+    "slug": "bilthoven"
+  },
+  {
+    "name": "Blerick",
+    "code": "Br",
+    "slug": "blerick"
+  },
+  {
+    "name": "Bloemendaal",
+    "code": "Bll",
+    "slug": "bloemendaal"
+  },
+  {
+    "name": "Bodegraven",
+    "code": "Bdg",
+    "slug": "bodegraven"
+  },
+  {
+    "name": "Borne",
+    "code": "Bn",
+    "slug": "borne"
+  },
+  {
+    "name": "Boskoop",
+    "code": "Bsk",
+    "slug": "boskoop"
+  },
+  {
+    "name": "Boskoop Snijdelwijk",
+    "code": "Bsks",
+    "slug": "boskoop-snijdelwijk"
+  },
+  {
+    "name": "Boven-Hardinxveld",
+    "code": "Bhdv",
+    "slug": "boven-hardinxveld"
+  },
+  {
+    "name": "Bovenkarspel Flora",
+    "code": "Bkf",
+    "slug": "bovenkarspel-flora"
+  },
+  {
+    "name": "Bovenkarspel-Grootebroek",
+    "code": "Bkg",
+    "slug": "bovenkarspel-grootebroek"
+  },
+  {
+    "name": "Boxmeer",
+    "code": "Bmr",
+    "slug": "boxmeer"
+  },
+  {
+    "name": "Boxtel",
+    "code": "Btl",
+    "slug": "boxtel"
+  },
+  {
+    "name": "Breda",
+    "code": "Bd",
+    "slug": "breda"
+  },
+  {
+    "name": "Breda-Prinsenbeek",
+    "code": "Bdpb",
+    "slug": "breda-prinsenbeek"
+  },
+  {
+    "name": "Breukelen",
+    "code": "Bkl",
+    "slug": "breukelen"
+  },
+  {
+    "name": "Brummen",
+    "code": "Bmn",
+    "slug": "brummen"
+  },
+  {
+    "name": "Buitenpost",
+    "code": "Bp",
+    "slug": "buitenpost"
+  },
+  {
+    "name": "Bunde",
+    "code": "Bde",
+    "slug": "bunde"
+  },
+  {
+    "name": "Bunnik",
+    "code": "Bnk",
+    "slug": "bunnik"
+  },
+  {
+    "name": "Bussum Zuid",
+    "code": "Bsmz",
+    "slug": "bussum-zuid"
+  },
+  {
+    "name": "Capelle Schollevaar",
+    "code": "Cps",
+    "slug": "capelle-schollevaar"
+  },
+  {
+    "name": "Castricum",
+    "code": "Cas",
+    "slug": "castricum"
+  },
+  {
+    "name": "Chevremont",
+    "code": "Cvm",
+    "slug": "chevremont"
+  },
+  {
+    "name": "Coevorden",
+    "code": "Co",
+    "slug": "coevorden"
+  },
+  {
+    "name": "Cuijk",
+    "code": "Ck",
+    "slug": "cuijk"
+  },
+  {
+    "name": "Culemborg",
+    "code": "Cl",
+    "slug": "culemborg"
+  },
+  {
+    "name": "Daarlerveen",
+    "code": "Da",
+    "slug": "daarlerveen"
+  },
+  {
+    "name": "Dalen",
+    "code": "Dln",
+    "slug": "dalen"
+  },
+  {
+    "name": "Dalfsen",
+    "code": "Dl",
+    "slug": "dalfsen"
+  },
+  {
+    "name": "De Vink",
+    "code": "Dvnk",
+    "slug": "de-vink"
+  },
+  {
+    "name": "De Westereen",
+    "code": "Dwe",
+    "slug": "de-westereen"
+  },
+  {
+    "name": "Deinum",
+    "code": "Dei",
+    "slug": "deinum"
+  },
+  {
+    "name": "Delden",
+    "code": "Ddn",
+    "slug": "delden"
+  },
+  {
+    "name": "Delft",
+    "code": "Dt",
+    "slug": "delft"
+  },
+  {
+    "name": "Delft Campus",
+    "code": "Dtcp",
+    "slug": "delft-campus"
+  },
+  {
+    "name": "Delft Zuid",
+    "code": "Dtz",
+    "slug": "delft-zuid"
+  },
+  {
+    "name": "Delfzijl",
+    "code": "Dz",
+    "slug": "delfzijl"
+  },
+  {
+    "name": "Delfzijl West",
+    "code": "Dzw",
+    "slug": "delfzijl-west"
+  },
+  {
+    "name": "Den Dolder",
+    "code": "Dld",
+    "slug": "den-dolder"
+  },
+  {
+    "name": "Den Haag Centraal",
+    "code": "Gvc",
+    "slug": "den-haag-centraal"
+  },
+  {
+    "name": "Den Haag HS",
+    "code": "Gv",
+    "slug": "den-haag-hs"
+  },
+  {
+    "name": "Den Haag Laan v NOI",
+    "code": "Laa",
+    "slug": "den-haag-laan-v-noi"
+  },
+  {
+    "name": "Den Haag Mariahoeve",
+    "code": "Gvm",
+    "slug": "den-haag-mariahoeve"
+  },
+  {
+    "name": "Den Haag Moerwijk",
+    "code": "Gvmw",
+    "slug": "den-haag-moerwijk"
+  },
+  {
+    "name": "Den Haag Ypenburg",
+    "code": "Ypb",
+    "slug": "den-haag-ypenburg"
+  },
+  {
+    "name": "Den Helder",
+    "code": "Hdr",
+    "slug": "den-helder"
+  },
+  {
+    "name": "Den Helder Zuid",
+    "code": "Hdrz",
+    "slug": "den-helder-zuid"
+  },
+  {
+    "name": "Deurne",
+    "code": "Dn",
+    "slug": "deurne"
+  },
+  {
+    "name": "Deventer",
+    "code": "Dv",
+    "slug": "deventer"
+  },
+  {
+    "name": "Deventer Colmschate",
+    "code": "Dvc",
+    "slug": "deventer-colmschate"
+  },
+  {
+    "name": "Didam",
+    "code": "Did",
+    "slug": "didam"
+  },
+  {
+    "name": "Diemen",
+    "code": "Dmn",
+    "slug": "diemen"
+  },
+  {
+    "name": "Diemen Zuid",
+    "code": "Dmnz",
+    "slug": "diemen-zuid"
+  },
+  {
+    "name": "Dieren",
+    "code": "Dr",
+    "slug": "dieren"
+  },
+  {
+    "name": "Doetinchem",
+    "code": "Dtc",
+    "slug": "doetinchem"
+  },
+  {
+    "name": "Doetinchem De Huet",
+    "code": "Dtch",
+    "slug": "doetinchem-de-huet"
+  },
+  {
+    "name": "Dordrecht",
+    "code": "Ddr",
+    "slug": "dordrecht"
+  },
+  {
+    "name": "Dordrecht Stadspolders",
+    "code": "Ddrs",
+    "slug": "dordrecht-stadspolders"
+  },
+  {
+    "name": "Dordrecht Zuid",
+    "code": "Ddzd",
+    "slug": "dordrecht-zuid"
+  },
+  {
+    "name": "Driebergen-Zeist",
+    "code": "Db",
+    "slug": "driebergen-zeist"
+  },
+  {
+    "name": "Driehuis",
+    "code": "Drh",
+    "slug": "driehuis"
+  },
+  {
+    "name": "Dronryp",
+    "code": "Drp",
+    "slug": "dronryp"
+  },
+  {
+    "name": "Dronten",
+    "code": "Dron",
+    "slug": "dronten"
+  },
+  {
+    "name": "Duiven",
+    "code": "Dvn",
+    "slug": "duiven"
+  },
+  {
+    "name": "Duivendrecht",
+    "code": "Dvd",
+    "slug": "duivendrecht"
+  },
+  {
+    "name": "Echt",
+    "code": "Ec",
+    "slug": "echt"
+  },
+  {
+    "name": "Ede Centrum",
+    "code": "Edc",
+    "slug": "ede-centrum"
+  },
+  {
+    "name": "Ede-Wageningen",
+    "code": "Ed",
+    "slug": "ede-wageningen"
+  },
+  {
+    "name": "Eemshaven",
+    "code": "Eem",
+    "slug": "eemshaven"
+  },
+  {
+    "name": "Eijsden",
+    "code": "Edn",
+    "slug": "eijsden"
+  },
+  {
+    "name": "Eindhoven Centraal",
+    "code": "Ehv",
+    "slug": "eindhoven"
+  },
+  {
+    "name": "Eindhoven Strijp-S",
+    "code": "Ehs",
+    "slug": "eindhoven-strijp-s"
+  },
+  {
+    "name": "Elst",
+    "code": "Est",
+    "slug": "elst"
+  },
+  {
+    "name": "Emmen",
+    "code": "Emn",
+    "slug": "emmen"
+  },
+  {
+    "name": "Emmen Zuid",
+    "code": "Emnz",
+    "slug": "emmen-zuid"
+  },
+  {
+    "name": "Enkhuizen",
+    "code": "Ekz",
+    "slug": "enkhuizen"
+  },
+  {
+    "name": "Enschede",
+    "code": "Es",
+    "slug": "enschede"
+  },
+  {
+    "name": "Enschede De Eschmarke",
+    "code": "Ese",
+    "slug": "enschede-de-eschmarke"
+  },
+  {
+    "name": "Enschede Kennispark",
+    "code": "Esk",
+    "slug": "enschede-kennispark"
+  },
+  {
+    "name": "Ermelo",
+    "code": "Eml",
+    "slug": "ermelo"
+  },
+  {
+    "name": "Etten-Leur",
+    "code": "Etn",
+    "slug": "etten-leur"
+  },
+  {
+    "name": "Eygelshoven",
+    "code": "Egh",
+    "slug": "eygelshoven"
+  },
+  {
+    "name": "Eygelshoven Markt",
+    "code": "Eghm",
+    "slug": "eygelshoven-markt"
+  },
+  {
+    "name": "Feanwalden",
+    "code": "Fwd",
+    "slug": "feanwalden"
+  },
+  {
+    "name": "Franeker",
+    "code": "Fn",
+    "slug": "franeker"
+  },
+  {
+    "name": "Gaanderen",
+    "code": "Gdr",
+    "slug": "gaanderen"
+  },
+  {
+    "name": "Geldermalsen",
+    "code": "Gdm",
+    "slug": "geldermalsen"
+  },
+  {
+    "name": "Geldrop",
+    "code": "Gp",
+    "slug": "geldrop"
+  },
+  {
+    "name": "Geleen Oost",
+    "code": "Gln",
+    "slug": "geleen-oost"
+  },
+  {
+    "name": "Geleen-Lutterade",
+    "code": "Lut",
+    "slug": "geleen-lutterade"
+  },
+  {
+    "name": "Gilze-Rijen",
+    "code": "Gz",
+    "slug": "gilze-rijen"
+  },
+  {
+    "name": "Glanerbrug",
+    "code": "Gbr",
+    "slug": "glanerbrug"
+  },
+  {
+    "name": "Goes",
+    "code": "Gs",
+    "slug": "goes"
+  },
+  {
+    "name": "Goor",
+    "code": "Go",
+    "slug": "goor"
+  },
+  {
+    "name": "Gorinchem",
+    "code": "Gr",
+    "slug": "gorinchem"
+  },
+  {
+    "name": "Gouda",
+    "code": "Gd",
+    "slug": "gouda"
+  },
+  {
+    "name": "Gouda Goverwelle",
+    "code": "Gdg",
+    "slug": "gouda-goverwelle"
+  },
+  {
+    "name": "Gramsbergen",
+    "code": "Gbg",
+    "slug": "gramsbergen"
+  },
+  {
+    "name": "Grijpskerk",
+    "code": "Gk",
+    "slug": "grijpskerk"
+  },
+  {
+    "name": "Groningen",
+    "code": "Gn",
+    "slug": "groningen"
+  },
+  {
+    "name": "Groningen Europapark",
+    "code": "Gerp",
+    "slug": "groningen-europapark"
+  },
+  {
+    "name": "Groningen Noord",
+    "code": "Gnn",
+    "slug": "groningen-noord"
+  },
+  {
+    "name": "Grou-Jirnsum",
+    "code": "Gw",
+    "slug": "grou-jirnsum"
+  },
+  {
+    "name": "Haarlem",
+    "code": "Hlm",
+    "slug": "haarlem"
+  },
+  {
+    "name": "Haarlem Spaarnwoude",
+    "code": "Hlms",
+    "slug": "haarlem-spaarnwoude"
+  },
+  {
+    "name": "Halfweg-Zwanenburg",
+    "code": "Hwzb",
+    "slug": "halfweg-zwanenburg"
+  },
+  {
+    "name": "Hardenberg",
+    "code": "Hdb",
+    "slug": "hardenberg"
+  },
+  {
+    "name": "Harderwijk",
+    "code": "Hd",
+    "slug": "harderwijk"
+  },
+  {
+    "name": "Hardinxveld Blauwe Zoom",
+    "code": "Hbzm",
+    "slug": "hardinxveld-blauwe-zoom"
+  },
+  {
+    "name": "Hardinxveld-Giessendam",
+    "code": "Gnd",
+    "slug": "hardinxveld-giessendam"
+  },
+  {
+    "name": "Haren",
+    "code": "Hrn",
+    "slug": "haren"
+  },
+  {
+    "name": "Harlingen",
+    "code": "Hlg",
+    "slug": "harlingen"
+  },
+  {
+    "name": "Harlingen Haven",
+    "code": "Hlgh",
+    "slug": "harlingen-haven"
+  },
+  {
+    "name": "Heemskerk",
+    "code": "Hk",
+    "slug": "heemskerk"
+  },
+  {
+    "name": "Heemstede-Aerdenhout",
+    "code": "Had",
+    "slug": "heemstede-aerdenhout"
+  },
+  {
+    "name": "Heerenveen",
+    "code": "Hr",
+    "slug": "heerenveen"
+  },
+  {
+    "name": "Heerenveen IJsstadion",
+    "code": "Hry",
+    "slug": "heerenveen-ijsstadion"
+  },
+  {
+    "name": "Heerhugowaard",
+    "code": "Hwd",
+    "slug": "heerhugowaard"
+  },
+  {
+    "name": "Heerlen",
+    "code": "Hrl",
+    "slug": "heerlen"
+  },
+  {
+    "name": "Heerlen De Kissel",
+    "code": "Hrlk",
+    "slug": "heerlen-de-kissel"
+  },
+  {
+    "name": "Heerlen Woonboulevard",
+    "code": "Hrlw",
+    "slug": "heerlen-woonboulevard"
+  },
+  {
+    "name": "Heeze",
+    "code": "Hze",
+    "slug": "heeze"
+  },
+  {
+    "name": "Heiloo",
+    "code": "Hlo",
+    "slug": "heiloo"
+  },
+  {
+    "name": "Heino",
+    "code": "Hno",
+    "slug": "heino"
+  },
+  {
+    "name": "Helmond",
+    "code": "Hm",
+    "slug": "helmond"
+  },
+  {
+    "name": "Helmond 't Hout",
+    "code": "Hmh",
+    "slug": "helmond-t-hout"
+  },
+  {
+    "name": "Helmond Brandevoort",
+    "code": "Hmbv",
+    "slug": "helmond-brandevoort"
+  },
+  {
+    "name": "Helmond Brouwhuis",
+    "code": "Hmbh",
+    "slug": "helmond-brouwhuis"
+  },
+  {
+    "name": "Hemmen-Dodewaard",
+    "code": "Hmn",
+    "slug": "hemmen-dodewaard"
+  },
+  {
+    "name": "Hengelo",
+    "code": "Hgl",
+    "slug": "hengelo"
+  },
+  {
+    "name": "Hengelo Gezondheidspark",
+    "code": "Hglg",
+    "slug": "hengelo-gezondheidspark"
+  },
+  {
+    "name": "Hengelo Oost",
+    "code": "Hglo",
+    "slug": "hengelo-oost"
+  },
+  {
+    "name": "Hillegom",
+    "code": "Hil",
+    "slug": "hillegom"
+  },
+  {
+    "name": "Hilversum",
+    "code": "Hvs",
+    "slug": "hilversum"
+  },
+  {
+    "name": "Hilversum Media Park",
+    "code": "Hvsm",
+    "slug": "hilversum-media-park"
+  },
+  {
+    "name": "Hilversum Sportpark",
+    "code": "Hvsp",
+    "slug": "hilversum-sportpark"
+  },
+  {
+    "name": "Hindeloopen",
+    "code": "Hnp",
+    "slug": "hindeloopen"
+  },
+  {
+    "name": "Hoensbroek",
+    "code": "Hb",
+    "slug": "hoensbroek"
+  },
+  {
+    "name": "Hoevelaken",
+    "code": "Hvl",
+    "slug": "hoevelaken"
+  },
+  {
+    "name": "Hollandsche Rading",
+    "code": "Hor",
+    "slug": "hollandsche-rading"
+  },
+  {
+    "name": "Holten",
+    "code": "Hon",
+    "slug": "holten"
+  },
+  {
+    "name": "Hoofddorp",
+    "code": "Hfd",
+    "slug": "hoofddorp"
+  },
+  {
+    "name": "Hoogeveen",
+    "code": "Hgv",
+    "slug": "hoogeveen"
+  },
+  {
+    "name": "Hoogezand-Sappemeer",
+    "code": "Hgz",
+    "slug": "hoogezand-sappemeer"
+  },
+  {
+    "name": "Hoogkarspel",
+    "code": "Hks",
+    "slug": "hoogkarspel"
+  },
+  {
+    "name": "Hoorn",
+    "code": "Hn",
+    "slug": "hoorn"
+  },
+  {
+    "name": "Hoorn Kersenboogerd",
+    "code": "Hnk",
+    "slug": "hoorn-kersenboogerd"
+  },
+  {
+    "name": "Horst-Sevenum",
+    "code": "Hrt",
+    "slug": "horst-sevenum"
+  },
+  {
+    "name": "Houten",
+    "code": "Htn",
+    "slug": "houten"
+  },
+  {
+    "name": "Houten Castellum",
+    "code": "Htnc",
+    "slug": "houten-castellum"
+  },
+  {
+    "name": "Houthem-St Gerlach",
+    "code": "Sgl",
+    "slug": "houthem-st-gerlach"
+  },
+  {
+    "name": "Hurdegaryp",
+    "code": "Hdg",
+    "slug": "hurdegaryp"
+  },
+  {
+    "name": "IJlst",
+    "code": "Ijt",
+    "slug": "ijlst"
+  },
+  {
+    "name": "Kampen",
+    "code": "Kpn",
+    "slug": "kampen"
+  },
+  {
+    "name": "Kampen Zuid",
+    "code": "Kpnz",
+    "slug": "kampen-zuid"
+  },
+  {
+    "name": "Kapelle-Biezelinge",
+    "code": "Bzl",
+    "slug": "kapelle-biezelinge"
+  },
+  {
+    "name": "Kerkrade Centrum",
+    "code": "Krd",
+    "slug": "kerkrade-centrum"
+  },
+  {
+    "name": "Kesteren",
+    "code": "Ktr",
+    "slug": "kesteren"
+  },
+  {
+    "name": "Klarenbeek",
+    "code": "Kbk",
+    "slug": "klarenbeek"
+  },
+  {
+    "name": "Klimmen-Ransdaal",
+    "code": "Kmr",
+    "slug": "klimmen-ransdaal"
+  },
+  {
+    "name": "Koog aan de Zaan",
+    "code": "Kz",
+    "slug": "koog-aan-de-zaan"
+  },
+  {
+    "name": "Koudum-Molkwerum",
+    "code": "Kmw",
+    "slug": "koudum-molkwerum"
+  },
+  {
+    "name": "Krabbendijke",
+    "code": "Kbd",
+    "slug": "krabbendijke"
+  },
+  {
+    "name": "Krommenie-Assendelft",
+    "code": "Kma",
+    "slug": "krommenie-assendelft"
+  },
+  {
+    "name": "Kropswolde",
+    "code": "Kw",
+    "slug": "kropswolde"
+  },
+  {
+    "name": "Kruiningen-Yerseke",
+    "code": "Krg",
+    "slug": "kruiningen-yerseke"
+  },
+  {
+    "name": "Lage Zwaluwe",
+    "code": "Zlw",
+    "slug": "lage-zwaluwe"
+  },
+  {
+    "name": "Landgraaf",
+    "code": "Lg",
+    "slug": "landgraaf"
+  },
+  {
+    "name": "Lansingerland-Zoetermeer",
+    "code": "Llzm",
+    "slug": "lansingerland-zoetermeer"
+  },
+  {
+    "name": "Leerdam",
+    "code": "Ldm",
+    "slug": "leerdam"
+  },
+  {
+    "name": "Leeuwarden",
+    "code": "Lw",
+    "slug": "leeuwarden"
+  },
+  {
+    "name": "Leeuwarden Camminghaburen",
+    "code": "Lwc",
+    "slug": "leeuwarden-camminghaburen"
+  },
+  {
+    "name": "Leiden Centraal",
+    "code": "Ledn",
+    "slug": "leiden-centraal"
+  },
+  {
+    "name": "Leiden Lammenschans",
+    "code": "Ldl",
+    "slug": "leiden-lammenschans"
+  },
+  {
+    "name": "Lelystad Centrum",
+    "code": "Lls",
+    "slug": "lelystad-centrum"
+  },
+  {
+    "name": "Lichtenvoorde-Groenlo",
+    "code": "Ltv",
+    "slug": "lichtenvoorde-groenlo"
+  },
+  {
+    "name": "Lochem",
+    "code": "Lc",
+    "slug": "lochem"
+  },
+  {
+    "name": "Loppersum",
+    "code": "Lp",
+    "slug": "loppersum"
+  },
+  {
+    "name": "Lunteren",
+    "code": "Ltn",
+    "slug": "lunteren"
+  },
+  {
+    "name": "Maarheeze",
+    "code": "Mz",
+    "slug": "maarheeze"
+  },
+  {
+    "name": "Maarn",
+    "code": "Mrn",
+    "slug": "maarn"
+  },
+  {
+    "name": "Maarssen",
+    "code": "Mas",
+    "slug": "maarssen"
+  },
+  {
+    "name": "Maastricht",
+    "code": "Mt",
+    "slug": "maastricht"
+  },
+  {
+    "name": "Maastricht Noord",
+    "code": "Mtn",
+    "slug": "maastricht-noord"
+  },
+  {
+    "name": "Maastricht Randwyck",
+    "code": "Mtr",
+    "slug": "maastricht-randwyck"
+  },
+  {
+    "name": "Mantgum",
+    "code": "Mg",
+    "slug": "mantgum"
+  },
+  {
+    "name": "Mariënberg",
+    "code": "Mrb",
+    "slug": "marienberg"
+  },
+  {
+    "name": "Martenshoek",
+    "code": "Mth",
+    "slug": "martenshoek"
+  },
+  {
+    "name": "Meerssen",
+    "code": "Mes",
+    "slug": "meerssen"
+  },
+  {
+    "name": "Meppel",
+    "code": "Mp",
+    "slug": "meppel"
+  },
+  {
+    "name": "Middelburg",
+    "code": "Mdb",
+    "slug": "middelburg"
+  },
+  {
+    "name": "Mook-Molenhoek",
+    "code": "Mmlh",
+    "slug": "mook-molenhoek"
+  },
+  {
+    "name": "Naarden-Bussum",
+    "code": "Ndb",
+    "slug": "naarden-bussum"
+  },
+  {
+    "name": "Nieuw Amsterdam",
+    "code": "Na",
+    "slug": "nieuw-amsterdam"
+  },
+  {
+    "name": "Nieuw Vennep",
+    "code": "Nvp",
+    "slug": "nieuw-vennep"
+  },
+  {
+    "name": "Nieuwerkerk a/d IJssel",
+    "code": "Nwk",
+    "slug": "nieuwerkerk-a-d-ijssel"
+  },
+  {
+    "name": "Nijkerk",
+    "code": "Nkk",
+    "slug": "nijkerk"
+  },
+  {
+    "name": "Nijmegen",
+    "code": "Nm",
+    "slug": "nijmegen"
+  },
+  {
+    "name": "Nijmegen Dukenburg",
+    "code": "Nmd",
+    "slug": "nijmegen-dukenburg"
+  },
+  {
+    "name": "Nijmegen Goffert",
+    "code": "Nmgo",
+    "slug": "nijmegen-goffert"
+  },
+  {
+    "name": "Nijmegen Heyendaal",
+    "code": "Nmh",
+    "slug": "nijmegen-heyendaal"
+  },
+  {
+    "name": "Nijmegen Lent",
+    "code": "Nml",
+    "slug": "nijmegen-lent"
+  },
+  {
+    "name": "Nijverdal",
+    "code": "Nvd",
+    "slug": "nijverdal"
+  },
+  {
+    "name": "Nunspeet",
+    "code": "Ns",
+    "slug": "nunspeet"
+  },
+  {
+    "name": "Nuth",
+    "code": "Nh",
+    "slug": "nuth"
+  },
+  {
+    "name": "Obdam",
+    "code": "Obd",
+    "slug": "obdam"
+  },
+  {
+    "name": "Oisterwijk",
+    "code": "Ot",
+    "slug": "oisterwijk"
+  },
+  {
+    "name": "Oldenzaal",
+    "code": "Odz",
+    "slug": "oldenzaal"
+  },
+  {
+    "name": "Olst",
+    "code": "Ost",
+    "slug": "olst"
+  },
+  {
+    "name": "Ommen",
+    "code": "Omn",
+    "slug": "ommen"
+  },
+  {
+    "name": "Oosterbeek",
+    "code": "Otb",
+    "slug": "oosterbeek"
+  },
+  {
+    "name": "Opheusden",
+    "code": "Op",
+    "slug": "opheusden"
+  },
+  {
+    "name": "Oss",
+    "code": "O",
+    "slug": "oss"
+  },
+  {
+    "name": "Oss West",
+    "code": "Ow",
+    "slug": "oss-west"
+  },
+  {
+    "name": "Oudenbosch",
+    "code": "Odb",
+    "slug": "oudenbosch"
+  },
+  {
+    "name": "Overveen",
+    "code": "Ovn",
+    "slug": "overveen"
+  },
+  {
+    "name": "Purmerend",
+    "code": "Pmr",
+    "slug": "purmerend"
+  },
+  {
+    "name": "Purmerend Overwhere",
+    "code": "Pmo",
+    "slug": "purmerend-overwhere"
+  },
+  {
+    "name": "Purmerend Weidevenne",
+    "code": "Pmw",
+    "slug": "purmerend-weidevenne"
+  },
+  {
+    "name": "Putten",
+    "code": "Pt",
+    "slug": "putten"
+  },
+  {
+    "name": "Raalte",
+    "code": "Rat",
+    "slug": "raalte"
+  },
+  {
+    "name": "Ravenstein",
+    "code": "Rvs",
+    "slug": "ravenstein"
+  },
+  {
+    "name": "Reuver",
+    "code": "Rv",
+    "slug": "reuver"
+  },
+  {
+    "name": "Rheden",
+    "code": "Rh",
+    "slug": "rheden"
+  },
+  {
+    "name": "Rhenen",
+    "code": "Rhn",
+    "slug": "rhenen"
+  },
+  {
+    "name": "Rijssen",
+    "code": "Rsn",
+    "slug": "rijssen"
+  },
+  {
+    "name": "Rijswijk",
+    "code": "Rsw",
+    "slug": "rijswijk"
+  },
+  {
+    "name": "Rilland-Bath",
+    "code": "Rb",
+    "slug": "rilland-bath"
+  },
+  {
+    "name": "Roermond",
+    "code": "Rm",
+    "slug": "roermond"
+  },
+  {
+    "name": "Roodeschool",
+    "code": "Rd",
+    "slug": "roodeschool"
+  },
+  {
+    "name": "Roosendaal",
+    "code": "Rsd",
+    "slug": "roosendaal"
+  },
+  {
+    "name": "Rosmalen",
+    "code": "Rs",
+    "slug": "rosmalen"
+  },
+  {
+    "name": "Rotterdam Alexander",
+    "code": "Rta",
+    "slug": "rotterdam-alexander"
+  },
+  {
+    "name": "Rotterdam Blaak",
+    "code": "Rtb",
+    "slug": "rotterdam-blaak"
+  },
+  {
+    "name": "Rotterdam Capelsebrug",
+    "code": "Cpbr",
+    "slug": "rotterdam-capelsebrug"
+  },
+  {
+    "name": "Rotterdam Centraal",
+    "code": "Rtd",
+    "slug": "rotterdam-centraal"
+  },
+  {
+    "name": "Rotterdam Lombardijen",
+    "code": "Rlb",
+    "slug": "rotterdam-lombardijen"
+  },
+  {
+    "name": "Rotterdam Noord",
+    "code": "Rtn",
+    "slug": "rotterdam-noord"
+  },
+  {
+    "name": "Rotterdam Stadion",
+    "code": "Rtst",
+    "slug": "rotterdam-stadion"
+  },
+  {
+    "name": "Rotterdam Zuid",
+    "code": "Rtz",
+    "slug": "rotterdam-zuid"
+  },
+  {
+    "name": "Rotterdam-Beurs",
+    "code": "Beurs",
+    "slug": "rotterdam-beurs"
+  },
+  {
+    "name": "Ruurlo",
+    "code": "Rl",
+    "slug": "ruurlo"
+  },
+  {
+    "name": "Santpoort Noord",
+    "code": "Sptn",
+    "slug": "santpoort-noord"
+  },
+  {
+    "name": "Santpoort Zuid",
+    "code": "Sptz",
+    "slug": "santpoort-zuid"
+  },
+  {
+    "name": "Sappemeer Oost",
+    "code": "Spm",
+    "slug": "sappemeer-oost"
+  },
+  {
+    "name": "Sassenheim",
+    "code": "Ssh",
+    "slug": "sassenheim"
+  },
+  {
+    "name": "Sauwerd",
+    "code": "Swd",
+    "slug": "sauwerd"
+  },
+  {
+    "name": "Schagen",
+    "code": "Sgn",
+    "slug": "schagen"
+  },
+  {
+    "name": "Scheemda",
+    "code": "Sda",
+    "slug": "scheemda"
+  },
+  {
+    "name": "Schiedam Centrum",
+    "code": "Sdm",
+    "slug": "schiedam-centrum"
+  },
+  {
+    "name": "Schin op Geul",
+    "code": "Sog",
+    "slug": "schin-op-geul"
+  },
+  {
+    "name": "Schinnen",
+    "code": "Sn",
+    "slug": "schinnen"
+  },
+  {
+    "name": "Schiphol Airport",
+    "code": "Shl",
+    "slug": "schiphol-airport"
+  },
+  {
+    "name": "Sittard",
+    "code": "Std",
+    "slug": "sittard"
+  },
+  {
+    "name": "Sliedrecht",
+    "code": "Sdt",
+    "slug": "sliedrecht"
+  },
+  {
+    "name": "Sliedrecht Baanhoek",
+    "code": "Sdtb",
+    "slug": "sliedrecht-baanhoek"
+  },
+  {
+    "name": "Sneek",
+    "code": "Sk",
+    "slug": "sneek"
+  },
+  {
+    "name": "Sneek Noord",
+    "code": "Sknd",
+    "slug": "sneek-noord"
+  },
+  {
+    "name": "Soest",
+    "code": "St",
+    "slug": "soest"
+  },
+  {
+    "name": "Soest Zuid",
+    "code": "Stz",
+    "slug": "soest-zuid"
+  },
+  {
+    "name": "Soestdijk",
+    "code": "Sd",
+    "slug": "soestdijk"
+  },
+  {
+    "name": "Spaubeek",
+    "code": "Sbk",
+    "slug": "spaubeek"
+  },
+  {
+    "name": "Stavoren",
+    "code": "Stv",
+    "slug": "stavoren"
+  },
+  {
+    "name": "Stedum",
+    "code": "Stm",
+    "slug": "stedum"
+  },
+  {
+    "name": "Steenwijk",
+    "code": "Swk",
+    "slug": "steenwijk"
+  },
+  {
+    "name": "Susteren",
+    "code": "Srn",
+    "slug": "susteren"
+  },
+  {
+    "name": "Swalmen",
+    "code": "Sm",
+    "slug": "swalmen"
+  },
+  {
+    "name": "Tegelen",
+    "code": "Tg",
+    "slug": "tegelen"
+  },
+  {
+    "name": "Terborg",
+    "code": "Tbg",
+    "slug": "terborg"
+  },
+  {
+    "name": "Tiel",
+    "code": "Tl",
+    "slug": "tiel"
+  },
+  {
+    "name": "Tiel Passewaaij",
+    "code": "Tpsw",
+    "slug": "tiel-passewaaij"
+  },
+  {
+    "name": "Tilburg",
+    "code": "Tb",
+    "slug": "tilburg"
+  },
+  {
+    "name": "Tilburg Reeshof",
+    "code": "Tbr",
+    "slug": "tilburg-reeshof"
+  },
+  {
+    "name": "Tilburg Universiteit",
+    "code": "Tbu",
+    "slug": "tilburg-universiteit"
+  },
+  {
+    "name": "Twello",
+    "code": "Twl",
+    "slug": "twello"
+  },
+  {
+    "name": "Uitgeest",
+    "code": "Utg",
+    "slug": "uitgeest"
+  },
+  {
+    "name": "Uithuizen",
+    "code": "Uhz",
+    "slug": "uithuizen"
+  },
+  {
+    "name": "Uithuizermeeden",
+    "code": "Uhm",
+    "slug": "uithuizermeeden"
+  },
+  {
+    "name": "Usquert",
+    "code": "Ust",
+    "slug": "usquert"
+  },
+  {
+    "name": "Utrecht Centraal",
+    "code": "Ut",
+    "slug": "utrecht-centraal"
+  },
+  {
+    "name": "Utrecht Leidsche Rijn",
+    "code": "Utlr",
+    "slug": "utrecht-leidsche-rijn"
+  },
+  {
+    "name": "Utrecht Lunetten",
+    "code": "Utln",
+    "slug": "utrecht-lunetten"
+  },
+  {
+    "name": "Utrecht Maliebaan",
+    "code": "Utm",
+    "slug": "utrecht-maliebaan"
+  },
+  {
+    "name": "Utrecht Overvecht",
+    "code": "Uto",
+    "slug": "utrecht-overvecht"
+  },
+  {
+    "name": "Utrecht Terwijde",
+    "code": "Utt",
+    "slug": "utrecht-terwijde"
+  },
+  {
+    "name": "Utrecht Vaartsche Rijn",
+    "code": "Utvr",
+    "slug": "utrecht-vaartsche-rijn"
+  },
+  {
+    "name": "Utrecht Zuilen",
+    "code": "Utzl",
+    "slug": "utrecht-zuilen"
+  },
+  {
+    "name": "Valkenburg",
+    "code": "Vk",
+    "slug": "valkenburg"
+  },
+  {
+    "name": "Varsseveld",
+    "code": "Vsv",
+    "slug": "varsseveld"
+  },
+  {
+    "name": "Veendam",
+    "code": "Vdm",
+    "slug": "veendam"
+  },
+  {
+    "name": "Veenendaal Centrum",
+    "code": "Vndc",
+    "slug": "veenendaal-centrum"
+  },
+  {
+    "name": "Veenendaal West",
+    "code": "Vndw",
+    "slug": "veenendaal-west"
+  },
+  {
+    "name": "Veenendaal-De Klomp",
+    "code": "Klp",
+    "slug": "veenendaal-de-klomp"
+  },
+  {
+    "name": "Velp",
+    "code": "Vp",
+    "slug": "velp"
+  },
+  {
+    "name": "Venlo",
+    "code": "Vl",
+    "slug": "venlo"
+  },
+  {
+    "name": "Venray",
+    "code": "Vry",
+    "slug": "venray"
+  },
+  {
+    "name": "Vierlingsbeek",
+    "code": "Vlb",
+    "slug": "vierlingsbeek"
+  },
+  {
+    "name": "Vleuten",
+    "code": "Vtn",
+    "slug": "vleuten"
+  },
+  {
+    "name": "Vlissingen",
+    "code": "Vs",
+    "slug": "vlissingen"
+  },
+  {
+    "name": "Vlissingen Souburg",
+    "code": "Vss",
+    "slug": "vlissingen-souburg"
+  },
+  {
+    "name": "Voerendaal",
+    "code": "Vdl",
+    "slug": "voerendaal"
+  },
+  {
+    "name": "Voorburg",
+    "code": "Vb",
+    "slug": "voorburg"
+  },
+  {
+    "name": "Voorhout",
+    "code": "Vh",
+    "slug": "voorhout"
+  },
+  {
+    "name": "Voorschoten",
+    "code": "Vst",
+    "slug": "voorschoten"
+  },
+  {
+    "name": "Voorst-Empe",
+    "code": "Vem",
+    "slug": "voorst-empe"
+  },
+  {
+    "name": "Vorden",
+    "code": "Vd",
+    "slug": "vorden"
+  },
+  {
+    "name": "Vriezenveen",
+    "code": "Vz",
+    "slug": "vriezenveen"
+  },
+  {
+    "name": "Vroomshoop",
+    "code": "Vhp",
+    "slug": "vroomshoop"
+  },
+  {
+    "name": "Vught",
+    "code": "Vg",
+    "slug": "vught"
+  },
+  {
+    "name": "Waddinxveen",
+    "code": "Wad",
+    "slug": "waddinxveen"
+  },
+  {
+    "name": "Waddinxveen Noord",
+    "code": "Wadn",
+    "slug": "waddinxveen-noord"
+  },
+  {
+    "name": "Waddinxveen Triangel",
+    "code": "Wadt",
+    "slug": "waddinxveen-triangel"
+  },
+  {
+    "name": "Warffum",
+    "code": "Wfm",
+    "slug": "warffum"
+  },
+  {
+    "name": "Weert",
+    "code": "Wt",
+    "slug": "weert"
+  },
+  {
+    "name": "Weesp",
+    "code": "Wp",
+    "slug": "weesp"
+  },
+  {
+    "name": "Wehl",
+    "code": "Wl",
+    "slug": "wehl"
+  },
+  {
+    "name": "Werkplaats Haarlem",
+    "code": "Hlmwph",
+    "slug": "werkplaats-haarlem"
+  },
+  {
+    "name": "Werkplaats Leidschendam",
+    "code": "Ldd",
+    "slug": "werkplaats-leidschendam"
+  },
+  {
+    "name": "Werkplaats Onnen",
+    "code": "On",
+    "slug": "werkplaats-onnen"
+  },
+  {
+    "name": "Werkplaats Zaanstraat",
+    "code": "Aswplz",
+    "slug": "werkplaats-zaanstraat"
+  },
+  {
+    "name": "Westervoort",
+    "code": "Wtv",
+    "slug": "westervoort"
+  },
+  {
+    "name": "Wezep",
+    "code": "Wz",
+    "slug": "wezep"
+  },
+  {
+    "name": "Wierden",
+    "code": "Wdn",
+    "slug": "wierden"
+  },
+  {
+    "name": "Wijchen",
+    "code": "Wc",
+    "slug": "wijchen"
+  },
+  {
+    "name": "Wijhe",
+    "code": "Wh",
+    "slug": "wijhe"
+  },
+  {
+    "name": "Winschoten",
+    "code": "Ws",
+    "slug": "winschoten"
+  },
+  {
+    "name": "Winsum",
+    "code": "Wsm",
+    "slug": "winsum"
+  },
+  {
+    "name": "Winterswijk",
+    "code": "Ww",
+    "slug": "winterswijk"
+  },
+  {
+    "name": "Winterswijk West",
+    "code": "Www",
+    "slug": "winterswijk-west"
+  },
+  {
+    "name": "Woerden",
+    "code": "Wd",
+    "slug": "woerden"
+  },
+  {
+    "name": "Wolfheze",
+    "code": "Wf",
+    "slug": "wolfheze"
+  },
+  {
+    "name": "Wolvega",
+    "code": "Wv",
+    "slug": "wolvega"
+  },
+  {
+    "name": "Workum",
+    "code": "Wk",
+    "slug": "workum"
+  },
+  {
+    "name": "Wormerveer",
+    "code": "Wm",
+    "slug": "wormerveer"
+  },
+  {
+    "name": "Zaandam",
+    "code": "Zd",
+    "slug": "zaandam"
+  },
+  {
+    "name": "Zaandam Kogerveld",
+    "code": "Zdk",
+    "slug": "zaandam-kogerveld"
+  },
+  {
+    "name": "Zaandijk Zaanse Schans",
+    "code": "Zzs",
+    "slug": "zaandijk-zaanse-schans"
+  },
+  {
+    "name": "Zaltbommel",
+    "code": "Zbm",
+    "slug": "zaltbommel"
+  },
+  {
+    "name": "Zandvoort aan Zee",
+    "code": "Zvt",
+    "slug": "zandvoort-aan-zee"
+  },
+  {
+    "name": "Zetten-Andelst",
+    "code": "Za",
+    "slug": "zetten-andelst"
+  },
+  {
+    "name": "Zevenaar",
+    "code": "Zv",
+    "slug": "zevenaar"
+  },
+  {
+    "name": "Zevenbergen",
+    "code": "Zvb",
+    "slug": "zevenbergen"
+  },
+  {
+    "name": "Zoetermeer",
+    "code": "Ztm",
+    "slug": "zoetermeer"
+  },
+  {
+    "name": "Zoetermeer Oost",
+    "code": "Ztmo",
+    "slug": "zoetermeer-oost"
+  },
+  {
+    "name": "Zuidbroek",
+    "code": "Zb",
+    "slug": "zuidbroek"
+  },
+  {
+    "name": "Zuidhorn",
+    "code": "Zh",
+    "slug": "zuidhorn"
+  },
+  {
+    "name": "Zutphen",
+    "code": "Zp",
+    "slug": "zutphen"
+  },
+  {
+    "name": "Zwijndrecht",
+    "code": "Zwd",
+    "slug": "zwijndrecht"
+  },
+  {
+    "name": "Zwolle",
+    "code": "Zl",
+    "slug": "zwolle"
+  },
+  {
+    "name": "Zwolle Stadshagen",
+    "code": "Zlsh",
+    "slug": "zwolle-stadshagen"
+  }
+]

@@ -1,0 +1,21 @@
+[plugin_settings."noctalia/bitwarden"]
+server_url = "http"
+
+[plugins]
+enabled = [
+    "lars/omdrop",
+    "lars/treinposities",
+    "lars/workspaces",
+    "noctalia/bitwarden",
+    "raycursive/discord-voice",
+    "nomadcxx/gamer-mode",
+    "icefish/phone-connect",
+    "conqazht/share-wifi",
+    "davemhammer/tailscale",
+    "carlocamacho/taildrop",
+    "profidev/hypr-screen-mirror",
+    "michael-retunzew/hyprland-settings",
+    "linux-fertxo/hyprland-visual-editor",
+    "kenn/keybind-cheatsheet"
+]
+

@@ -1,0 +1,37 @@
+[desktop_widgets]
+schema_version = 2
+widget_order = [ "desktop-widget-0000000000000001", "desktop-widget-0000000000000002" ]
+
+    [desktop_widgets.grid]
+    cell_size = 16
+    major_interval = 4
+    visible = true
+
+    [desktop_widgets.widget.desktop-widget-0000000000000001]
+    box_height = 0.0
+    box_width = 0.0
+    cx = 864.0
+    cy = 576.0
+    output = "eDP-1"
+    placement_height = 1152.0
+    placement_width = 1728.0
+    rotation = 0.0
+    type = "fancy_audio_visualizer"
+
+        [desktop_widgets.widget.desktop-widget-0000000000000001.settings]
+        background = false
+
+    [desktop_widgets.widget.desktop-widget-0000000000000002]
+    box_height = 192.0
+    box_width = 320.0
+    cx = 832.0
+    cy = 224.0
+    output = "eDP-1"
+    placement_height = 1152.0
+    placement_width = 1728.0
+    rotation = 0.0
+    type = "clock"
+
+        [desktop_widgets.widget.desktop-widget-0000000000000002.settings]
+        background_opacity = 0.0
+

@@ -1,0 +1,72 @@
+# =============================================================================
+# Noctalia Widgets Configuration
+# Ported and converted widgets from Waybar
+# =============================================================================
+
+# -----------------------------------------------------------------------------
+# Custom converted widgets (from ~/.config/noctalia/widgets)
+# -----------------------------------------------------------------------------
+
+# AirDrop for Linux (omdrop)
+# Ported from waybar "custom/omdrop"
+[widget.omdrop]
+type = "lars/omdrop:omdrop"
+
+# Dutch Train Departures & Travel Planner (Treinposities)
+# Ported from waybar "custom/treinposities"
+[widget.treinposities]
+type = "lars/treinposities:treinposities"
+
+# Hyprland Workspaces with window-rewrite icons
+# Ported from waybar "hyprland/workspaces"
+[widget.hypr_workspaces]
+type = "lars/workspaces:workspaces"
+
+# -----------------------------------------------------------------------------
+# System Monitor widgets (ported from waybar "cpu", "temperature", "memory")
+# -----------------------------------------------------------------------------
+
+[widget.cpu]
+type = "sysmon"
+stat = "cpu_usage"
+visualization = "none"
+show_value = true
+label_show_units = true
+
+[widget.temp]
+type = "sysmon"
+stat = "cpu_temp"
+visualization = "none"
+show_value = true
+label_show_units = true
+
+[widget.ram]
+type = "sysmon"
+stat = "ram_pct"
+visualization = "none"
+show_value = true
+label_show_units = true
+
+# -----------------------------------------------------------------------------
+# System Tray (ported from waybar "tray")
+# -----------------------------------------------------------------------------
+
+[widget.tray]
+drawer = false
+hide_passive = false
+
+# -----------------------------------------------------------------------------
+# Widget Actions (ported from waybar on-click / on-click-right bindings)
+# -----------------------------------------------------------------------------
+
+# Waybar clock opened sigye on right-click
+[widget.clock.actions]
+right = "exec kitty --class=sigye -e sigye"
+
+# Waybar bluetooth opened blueman-manager on right-click
+[widget.bluetooth.actions]
+right = "exec blueman-manager"
+
+# Waybar pulseaudio opened pavucontrol on right-click
+[widget.volume.actions]
+right = "exec pavucontrol -t 4"

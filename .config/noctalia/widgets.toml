@@ -1,0 +1,73 @@
+[widget.bar]
+type = "icefish/phone-connect:bar"
+
+[widget.bluetooth.actions]
+right = "exec blueman-manager"
+
+[widget.button]
+type = "michael-retunzew/hyprland-settings:button"
+
+[widget.clock.actions]
+right = "exec kitty --class=sigye -e sigye"
+
+[widget.cpu]
+label_show_units = true
+show_value = true
+stat = "cpu_usage"
+type = "sysmon"
+visualization = "none"
+
+[widget.hypr_workspaces]
+type = "lars/workspaces:workspaces"
+
+[widget.keybinds]
+type = "kenn/keybind-cheatsheet:keybinds"
+
+[widget.omdrop]
+type = "lars/omdrop:omdrop"
+
+[widget.ram]
+label_show_units = true
+show_value = true
+stat = "ram_pct"
+type = "sysmon"
+visualization = "none"
+
+[widget.status]
+type = "davemhammer/tailscale:status"
+
+[widget.temp]
+label_show_units = true
+show_value = true
+stat = "cpu_temp"
+type = "sysmon"
+visualization = "none"
+
+[widget.tray]
+drawer = false
+hide_passive = false
+
+[widget.treinposities]
+type = "lars/treinposities:treinposities"
+
+[widget.volume.actions]
+right = "exec pavucontrol -t 4"
+
+[widget.widget]
+type = "conqazht/share-wifi:widget"
+
+[widget.widget_2]
+type = "profidev/hypr-screen-mirror:widget"
+
+[widget.workspaces]
+group_by_workspace = true
+group_single_icon_per_app = true
+hide_empty_workspaces = false
+show_active_indicator = true
+show_all_outputs = true
+show_window_title = false
+show_workspace_label = true
+type = "taskbar"
+workspace_group_capsule = true
+workspace_group_content = "icons"
+workspace_label_placement = "inside"

@@ -1,0 +1,57 @@
+[bar]
+order = [ "main" ]
+
+    [bar.default]
+    auto_hide = false
+    background_opacity = 1.0
+    border = "outline_variant"
+    border_width = 0.0
+    capsule = false
+    capsule_border_width = 1.0
+    capsule_fill = "surface_container"
+    capsule_opacity = 1.0
+    capsule_radius = 8.0
+    capsule_thickness = 0.76000000000000001
+    center = [ "keybinds", "control-center", "notifications", "clock", "caffeine", "treinposities", "button", "widget_2" ]
+    compositor_blur = true
+    concave_edge_corners = true
+    contact_shadow = false
+    enabled = true
+    end = [
+        "bar",
+        "clipboard",
+        "omdrop",
+        "status",
+        "widget",
+        "network",
+        "bluetooth",
+        "volume",
+        "brightness",
+        "battery",
+        "session"
+    ]
+    font_family = "JetBrainsMono Nerd Font"
+    font_scale = 1.0
+    font_weight = 500
+    hover_highlight = true
+    layer = "top"
+    margin_edge = 5
+    margin_ends = 10
+    margin_opposite_edge = 0
+    padding = 14
+    panel_overlap = 1
+    position = "top"
+    radius = 12
+    radius_bottom_left = 12
+    radius_bottom_right = 12
+    radius_top_left = 12
+    radius_top_right = 12
+    reserve_space = true
+    scale = 1.0
+    shadow = true
+    show_on_workspace_switch = true
+    smart_auto_hide = false
+    start = [ "launcher", "wallpaper", "workspaces" ]
+    thickness = 34
+    widget_spacing = 6
+

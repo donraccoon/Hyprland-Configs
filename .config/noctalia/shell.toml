@@ -1,0 +1,5 @@
+[shell]
+app_icon_colorize = false
+polkit_agent = true
+screen_time_enabled = true
+

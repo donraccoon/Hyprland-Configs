@@ -1,0 +1,21 @@
+{
+  "mode": "trip",
+  "current_station": "Hengelo",
+  "trip_from": "Enschede Kennispark",
+  "trip_to": "Emmen Zuid",
+  "favorites": [
+    "Utrecht Centraal",
+    "Amsterdam Centraal",
+    "Rotterdam Centraal",
+    "Den Haag Centraal",
+    "Schiphol Airport",
+    "Eindhoven Centraal",
+    "Arnhem Centraal",
+    "Emmen Zuid"
+  ],
+  "max_tooltip_departures": 10,
+  "max_tooltip_trips": 4,
+  "show_material": true,
+  "cache_ttl_seconds": 30,
+  "waybar_signal": 8
+}
