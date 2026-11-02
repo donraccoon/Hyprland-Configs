@@ -1,0 +1,31 @@
+# Ignore caches and runtime logs
+**/Cache/**
+**/cache/**
+**/*Cache*/**
+**/*.log
+**/logs/**
+
+# Ignore Electron & Browser storage databases
+**/Local Storage/**
+**/Session Storage/**
+**/IndexedDB/**
+**/Shared Storage/**
+**/Shared Dictionary/**
+**/Crashpad/**
+**/DawnGraphiteCache/**
+**/DawnWebGPUCache/**
+**/GPUCache/**
+**/Code Cache/**
+
+# Ignore heavy virtual machine / disk images & containers
+winapps/windows/*.img
+winapps/windows/*.base
+winapps/windows/*.boot
+
+# Ignore lockfiles and temporary sockets
+**/*.lock
+**/*.conf_changes.dat
+**/Singleton*
+
+# Ignore telemetry data
+go/telemetry/

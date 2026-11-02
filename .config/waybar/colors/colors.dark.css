@@ -1,0 +1,15 @@
+/* Tokyo night dark enhanced color theme */
+
+@define-color module-bg     rgba(26, 27, 38, 0.9);
+@define-color tooltip-bg    @module-bg;
+@define-color inactive      @orange;
+@define-color fg            @orange;
+@define-color workspace-fg  @fg;
+@define-color highlight     @inactive;
+
+@define-color red           #f7768e;
+@define-color orange        #ea8000;
+@define-color blue          #41a6b5;
+@define-color yellow        #e0af68;
+@define-color green         #9ece6a;
+@define-color white         #FFFFFF;

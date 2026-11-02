@@ -1,0 +1,276 @@
+@import "colors/colors.dark.css";
+
+* {
+    font-family: 'CaskaydiaCove Nerd Font Propo';
+	border: none;
+	border-radius: 0;
+	min-height: 0;
+	margin: 0;
+	padding: 0;
+	text-shadow: none;
+}
+
+#waybar {
+    font-weight: 700;
+    background: transparent;
+    font-size: 14px;
+    color: @fg;
+}
+
+/* global paddings */
+#custom-omdrop,
+#temperature,
+#bluetooth, 
+#battery, 
+#memory,
+#mpris,
+#window,
+#cpu, 
+#load {
+    padding: 1px 7px;
+}
+
+#network, 
+#tray {
+    padding: 1px 6px;
+}
+
+#backlight,
+#pulseaudio {
+    padding: 1px 8px;
+}
+
+#pulseaudio {
+    padding-left: 4px;
+}
+
+#backlight-slider,
+#pulseaudio-slider {
+    padding: 0 7px 0 2px;
+}
+
+#workspaces, 
+#custom-omdrop,
+#bluetooth, 
+#battery, 
+#memory, 
+#temperature, 
+#cpu,
+#mpris,
+#window,
+#load {
+    margin: 0 3px;
+} 
+
+#right, 
+#left,
+#right-hidden-top, 
+#left-hidden-top {
+    padding: 2px 10px;
+    border-radius: 15px;
+    background: @module-bg;
+}
+
+#left-top {
+    padding: 2px 10px;
+    border-radius: 15px;
+    background: @module-bg;
+}
+
+#right-hidden-top,
+#left-hidden-top {
+    padding: 0 12px;
+}
+
+#right, #left  {
+    margin: 0 8px;
+}
+
+#clock {
+    background: @module-bg;
+    padding: 1px 18px;
+    border-radius: 15px;
+}
+#swaync {
+    background: @module-bg;
+    padding: 1px 18px;
+    border-radius: 15px;
+}
+
+#custom-treinposities {
+    background: @module-bg;
+    padding: 1px 14px;
+    border-radius: 15px;
+    margin: 0 4px;
+}
+
+#custom-treinposities.delayed {
+    color: @orange;
+}
+
+#custom-treinposities.critical {
+    color: @red;
+}
+
+#custom-treinposities.cancelled {
+    color: @red;
+    text-decoration: line-through;
+}
+
+#custom-treinposities.error {
+    color: @red;
+}
+
+#custom-omdrop {
+    transition: all 0.3s ease;
+}
+
+#custom-omdrop.off {
+    color: @fg;
+    opacity: 0.6;
+}
+
+#custom-omdrop.off:hover {
+    opacity: 1;
+    color: @blue;
+}
+
+#custom-omdrop.receiving,
+#custom-omdrop.active {
+    color: @green;
+    opacity: 1;
+}
+
+#custom-omdrop.settling {
+    color: @yellow;
+}
+
+#custom-omdrop.warning {
+    color: @orange;
+}
+
+#custom-omdrop.blocked,
+#custom-omdrop.error {
+    color: @red;
+}
+
+#custom-ctlcenter {
+    margin-left: 7px;
+}
+
+#power-profiles-daemon,
+#custom-start {
+    margin-right: 7px;
+}
+
+#cpu.critical,
+#memory.critical, 
+#battery.critical,
+#network.disabled,
+#temperature.critical, 
+#network.disconnected,
+#power-profiles-daemon.performance {
+	color: @red;
+}
+
+#cpu.warning,
+#memory.warning, 
+#battery.warning,
+#temperature.warning {
+	color: @yellow;
+    background: unset;
+}
+
+#power-profiles-daemon.power-saver {
+    color: @green;
+}
+
+#custom-start,
+#custom-ctlcenter {
+    color: @orange;
+}
+
+#workspaces button {
+    color: @workspace-fg;
+    font-size: 14px;
+    border-radius: 100%;
+    padding: 0 2px;
+    margin: 0 3px;
+}
+
+#taskbar button.active,
+#workspaces button.active {
+	color: @white;
+	background-color: @module-bg;
+  	border-radius: 10px;
+    padding-left: 8px;
+    padding-right: 8px;
+    animation: gradient_f 20s ease-in infinite;
+    transition: all 0.3s cubic-bezier(.55,-0.68,.48,1.682);
+}
+/* 
+#workspaces button.empty:not(.active) {
+    color: @inactive;
+} */
+
+#workspaces button:hover {
+    background: transparent;
+}
+
+#mpris.paused {
+    color: @inactive;
+}
+
+/* ---<==== Misc ====>--- */
+tooltip {
+    border-radius: 15px;
+    background: @tooltip-bg;
+}
+
+tooltip label {
+    padding: 3px 10px;
+    color: @fg;
+	font-weight: 700;
+}
+
+.popup * {
+    box-shadow: none;
+    outline: none;
+    border-radius: 10px;
+}
+
+menu {
+    border-radius: 10px;
+    font-weight: 700;
+    color: @fg;
+    background: @tooltip-bg;
+}
+
+menu > * {
+    padding: 3px 0px;
+}
+
+menu > *:hover {
+    border-radius: 10px;
+    background-color: @highlight;
+}
+
+/* Sliders */
+
+slider {
+    opacity: 0;
+    box-shadow: none;
+}
+
+trough {
+    min-width: 50px;
+    min-height: 5px;
+    border-radius: 8px;
+    background: @inactive;
+}
+
+trough highlight {
+    border-radius: 8px;
+    background-color: @fg;
+    background-image: none; /* Some gtk themes set an svg for background. */
+}

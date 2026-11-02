@@ -1,0 +1,50 @@
+{
+    "layer": "top",
+    "exclusive": true,
+    "passthrough": false,
+    "position": "top",
+    "fixed-center": true,
+    "ipc": true,
+    "height": 26,
+    "margin": "5 8",
+
+    "group/left" : {
+        "orientation": "horizontal",
+        "modules" : [
+            "hyprland/workspaces"
+//            "niri/workspaces",
+            //"mpris"
+        ]
+    },
+    "group/left-top" : {
+        "orientation": "horizontal",
+        "modules" : [
+            "temperature","cpu", "load"
+        ]
+    },
+
+    "group/left-hidden-top" : {
+        "orientation": "horizontal",
+        "modules" : [ "power-profiles-daemon" ]
+    },
+
+    "group/right" : {
+        "orientation": "horizontal",
+        "modules" : [
+            "custom/omdrop", "bluetooth", "group/group-volume", "group/group-backlight", "network", "tray" ]
+    },
+
+    
+
+    "group/right-hidden-top" : {
+        "orientation": "horizontal",
+        "modules" : [  "memory",   "battery", 
+         ]
+    },
+
+    "modules-left"   : ["group/left-hidden-top", "group/left", "group/left-top"],
+    "modules-center" : ["group/notify" , "clock",  "idle_inhibitor"], //"custom/treinposities",
+    "modules-right"  : [ "group/right"  , "group/right-hidden-top"],
+
+    "include": [ "~/.config/waybar/modules.jsonc" ]
+}
